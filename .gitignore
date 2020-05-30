@@ -1,6 +1,8 @@
 # Prerequisites
 *.d
 *.orig
+*.rej
+
 # Object files
 *.o
 *.ko
