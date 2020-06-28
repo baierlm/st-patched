@@ -7,7 +7,7 @@
  */
 static char *font = "mono:pixelsize=14:antialias=true:autohint=true";
 /* Spare fonts */
-static char *font2[] = {"JoyPixels:pixelsize=10:antialias=true:autohint=true"};
+static char *font2[] = {"Twitter Color Emoji:pixelsize=14:antialias=true:autohint=true"};
 
 static int borderpx = 2;
 
