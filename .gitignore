@@ -54,4 +54,5 @@ Mkfile.old
 dkms.conf
 
 st
+*.diff
 config.h
